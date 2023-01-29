@@ -7,7 +7,9 @@ Sublist3r is a python tool designed to enumerate subdomains of websites using OS
 ![image](https://user-images.githubusercontent.com/122525425/215326136-dfc927b9-14f8-42ca-a9ca-6333182e1211.png)
 
  # Installation
- git clone https://github.com/elpirata111/Hacking-tools.git
+1-  git clone https://github.com/elpirata111/Hacking-tools.git
+ 
+ 2- pip install -r requirements.txt || pip3 install -r requirements.txt
  # Usage
  python sublist115.py example.com
 	
